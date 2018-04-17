@@ -1,0 +1,19 @@
+.barra-superior{
+  min-height: 4rem;
+}
+div[class*="columna"]{
+  min-height: 50rem;
+}
+
+.columna-news, .columna-chat {
+	padding: 0!important;
+}
+
+div[class*="bloque"]{
+  height: 25rem;
+}
+
+.logo{
+  width: 43px;
+  margin-top: 0.5rem;
+}

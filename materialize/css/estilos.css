@@ -1,0 +1,103 @@
+body {
+	background: url(../img/piscinas-termales.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.encabezado {
+	min-height:4rem;
+}
+
+.logo{
+  width: 100px;
+  margin-top: 0.5rem; 
+  float:left;
+}
+
+.slogan {
+	margin-left:100px;
+}
+
+.navegacion {
+	margin-top:15px;
+}
+
+.img-redes {
+	width:50px;
+}
+
+.fondo {
+	background:url(../img/cuadro.png);
+}
+
+.columna-chat, columna-news {
+	padding:0 !important;
+}
+
+.news-publication {
+	min-height:7rem;
+}
+
+.contenedor-publication {
+	min-height:17rem;
+
+}
+
+.contenedor-noticias {
+	min-height:50rem;
+	padding:0.5rem;
+	margin-top:1rem;
+}
+
+div[class*="bloque"]{
+  height: 25rem; 
+  overflow:scroll;
+}
+
+.responsive-img{
+  border: 0.6rem solid #fb8c00;
+  border-radius: 5px;
+}
+
+.circulo { border-radius:50% }
+
+/*aqui comienzan los estilos del ultimo ejercicio*/
+
+.encabezado .row {
+	margin-bottom:0;
+}
+
+
+
+.buscar-campo{
+  float: left;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+  width: 70%;
+}
+
+.contenedor-botones {
+	margin-top:1rem;
+}
+
+#publicacion-texto{
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  resize: none;
+  border: 1px solid #689f38;
+  background-color: #689f38;
+  height: 5rem;
+  color: #fff;
+}
+
+
+.col-centro {
+	height:150px;
+}
+
+
+@media (max-width: 600px) {
+  .columna-grupos{
+    padding: 0 !important;
+  }
+}

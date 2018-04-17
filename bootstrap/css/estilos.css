@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* estilos del body */
+.rock-body {
+	background: url(../img/df7244cd0dc542e69504b35de76f3ee0.png);
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+
+
+.logo-img {
+  width: 100px; 
+  margin-top:3px; 
+}
+
+
+.redes-sociales {
+	margin-top:50px; 
+}
+
+.img-social {
+	width:35px;
+	height:35px;
+}
+
+.img-comentarios {
+	width:90px;
+	height:55px;
+}
+
+
+

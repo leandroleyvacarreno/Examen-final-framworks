@@ -1,0 +1,21 @@
+body {
+	background:url(../img/comer-entrenar-tarde.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.container {
+	background-color:rgba(255, 11, 11, 0.18); 
+	opacity:0.5;
+	background-size: cover;
+}
+
+.row {
+	padding:15px;
+}
+
+.accordion {
+    list-style-type: none;
+    background-color:rgba(255, 211, 211); opacity:0.5;
+    margin-left: 0;
+}
